@@ -7,7 +7,7 @@ Author Name: Arnav Saxena
 
 Date: 24/10/2021
 
-Output: Markdown File
+Output: md_document
 
 ## Introduction
 
